@@ -1,4 +1,4 @@
-# simple-youtube-video-downloader
+# simple-youtube-video-downloader-in-python-tkinter
 simple youtube video downloader in python
 
 Output Screenshots
